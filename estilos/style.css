@@ -25,6 +25,13 @@ main {
     width: 100vw;
 }
 
+.campo {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    font-size: 16px;
+  }
+
 section#login {
     position: absolute;
     top: 50%;
@@ -52,3 +59,4 @@ section#login > div#formulario {
     display: block;
     padding: 10px;
 }
+
